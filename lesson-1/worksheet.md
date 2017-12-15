@@ -62,7 +62,7 @@ numbers = [i for i in range(0,10,2)]
 
 Try using list comprehensions to create the following lists:
 
-1. [0,3,6,8,12]
+1. [0,3,6,9,12]
 
 1. [10,8,6,4,2,0]
 
